@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9589a10689e6f448535d40462de608, type: 3}
+  m_Name: Mon_Raijugar
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_012
+  displayName: Raijugar
+  element: 4
+  frames:
+  - {fileID: -4809201893061458815, guid: c8feb32ebc4457d4a9db1fc971843900, type: 3}
+  - {fileID: -631046067222884029, guid: c8feb32ebc4457d4a9db1fc971843900, type: 3}
+  - {fileID: 6403342763153997564, guid: c8feb32ebc4457d4a9db1fc971843900, type: 3}
+  - {fileID: -8004602595372667140, guid: c8feb32ebc4457d4a9db1fc971843900, type: 3}
+  baseHP: 60
+  baseATK: 24
+  baseDEF: 10
+  baseSPD: 20
+  skillName: Setrum Kilat
+  evolvesTo: {fileID: 0}
+  evolveLevel: 0
