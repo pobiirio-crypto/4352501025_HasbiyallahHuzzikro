@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: RT_Path
   m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.RuleTile
   m_DefaultSprite: {fileID: -1056884524, guid: 88f8331b9a4683849917d37ebf5759c3, type: 3}
-  m_DefaultGameObject: {fileID: 0}
+  m_DefaultGameObject: {fileID: 7493453793888608428, guid: 6cedbd0513e0bb7449fcd3e4f6d8fdb6, type: 3}
   m_DefaultColliderType: 0
   m_TilingRules:
   - m_Id: 0
